@@ -1,4 +1,4 @@
-#this is an exercise I've tried to do after two days coding in React!
+# this is an exercise I've tried to do after two days coding in React!
 
 # Word Game
 
