@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Word Game
 
 ## Joy of React, Project I
@@ -298,3 +299,7 @@ _HINT:_ This will require moving the `answer` into state. You'll want to do the 
 
 - A "Restart Game" button is shown at the end of the game. You can put this button in the `GameOverBanner`, or wherever else you'd like!
 - Clicking the button should select a new correct word and reset all other state.
+=======
+# word-game
+a simple word game written in ReactJs
+>>>>>>> ea7af6db32759732d9ac8bc57826689cacdca04c
