@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+#this is an exercise I've tried to do after two days coding in React!
+
 # Word Game
 
 ## Joy of React, Project I
